@@ -136,6 +136,7 @@ def enlista(cadena:str)->list:
     """
     ...
 
+
 def cita_con_estilo(tu:int, cita:int)->int:
 
     if tu <= 2 or cita <= 2:
